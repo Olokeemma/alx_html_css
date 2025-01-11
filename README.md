@@ -1,8 +1,8 @@
-Headphones Web Page
-Overview
+                                           Headphones Web Page
+                           Overview
 This repository contains the code for a responsive headphones webpage design. The project replicates a given Figma design while ensuring a smooth user experience across different screen sizes, including desktop and mobile views. The design adheres to strict styling and interactivity requirements, ensuring pixel-perfect implementation.
 
-Features
+                                                   Features
 Responsive Design: Automatically adjusts layout and styling for screens 480px wide or less.
 Hover Effects:
 Links change color to #FF6565 on hover or active.
@@ -27,8 +27,8 @@ Code Editor:
 Use any code editor (e.g., Visual Studio Code, Sublime Text) to modify the code.
 Setup
 Clone this repository:
-git clone https://github.com/esther-must/alx_html_css.git
-Navigate to the project directory:
+
+Navighttps://github.com/Olokeemma/alx_html_css.gitate to the project directory:
 cd alx_html_css/headphones
 Open the files in your preferred browser or editor.
 Folder Structure
